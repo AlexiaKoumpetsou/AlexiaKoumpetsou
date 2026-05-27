@@ -4,7 +4,7 @@ I am a Computer Engineering student at the National Technical University of Athe
 
 ---
 
-## 🔬 Research Interests
+## 🧠 Research Interests
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -14,7 +14,7 @@ I am a Computer Engineering student at the National Technical University of Athe
 
 ---
 
-## 🧪 Current Work
+## 📚 Current Work
 
 I am currently working on my diploma thesis in the energy domain, focusing on the integration of structured knowledge bases with LLM-powered assistants. The system combines a curated Wiki with retrieval mechanisms (vector search using FAISS) and generative models, aiming to improve access to complex technical documentation in energy-related digital platforms.
 
