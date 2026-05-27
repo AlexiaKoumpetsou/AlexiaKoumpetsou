@@ -43,7 +43,7 @@ The work also investigates adaptive interaction strategies using prompt engineer
 
 ## 📫 Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/alexia-eirini-koumpetsou-47bbb0411/)
+- [LinkedIn](https://www.linkedin.com/in/alexiaeirinikoumpetsou/)
 
 ---
 
